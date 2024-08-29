@@ -1,1 +1,6 @@
-//
+//ini javascript
+
+function <replacename{[]{
+    
+}
+
